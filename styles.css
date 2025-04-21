@@ -1,0 +1,26 @@
+body {
+    justify-content: center; /* Centraliza horizontalmente */
+    text-align: center; 
+    background-color: rgb(26, 23, 23);
+    color: white;
+    border: 10px;
+}
+
+button {
+    background-color: #181815; /* Cor de fundo do botão */
+    color: white; /* Cor do texto */
+    padding: 10px 20px; /* Espaçamento interno */
+    border: none; /* Remove a borda padrão */
+    border-radius: 5px; /* Arredonda os cantos */
+    font-size: 16px; /* Tamanho do texto */
+    cursor: pointer; /* Mostra o cursor de "mão" ao passar o mouse */
+    transition: background-color 0.3s ease; /* Suaviza a mudança de cor */
+}
+
+.border {
+    padding: 20px;
+}
+
+.alinhamento {
+    padding: 5px;
+}
